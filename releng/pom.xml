@@ -26,7 +26,7 @@
 		<module>../org.semanticsoft.e4tools.extension</module>
 		
 		<module>../org.semanticsoft.e4.tools.feature</module>
-		
+		<module>../updatesite</module>
 	</modules>
 
 	<repositories>
