@@ -11,7 +11,7 @@
 
 	<groupId>org.semanticsoft.vaaclipse</groupId>
 	<artifactId>releng</artifactId>
-	<version>1.0.0.M1</version>
+	<version>1.0.0.M2</version>
 	<packaging>pom</packaging>
 	<properties>
 		<tycho-version>0.16.0</tycho-version>
@@ -30,7 +30,7 @@
 		<module>../org.semanticsoft.vaaclipse.api</module>
 		<module>../org.semanticsoft.vaaclipse.publicapi</module>
 		<module>../org.semanticsoft.vaaclipse.resources</module>
-		<!--  module>../org.semanticsoft.vaaclipse.vaadinaddons</module-->
+		<module>../org.semanticsoft.vaaclipse.vaadinaddons</module>
 		<module>../org.semanticsoft.vaaclipse.util</module>
 		<module>../org.semanticsoft.vaaclipse.theme</module>
 		<module>../org.semanticsoft.vaadin.osgi.staticres</module>

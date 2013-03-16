@@ -8,7 +8,7 @@ rm -rf /tmp/vaadin-target
 rm -rf /tmp/vaadin-repository
 mkdir -p /tmp/vaadin-target/plugins
 cp ../org.semanticsoft.vaaclipse.targetdef/bundles/com.vaadin_$VAADIN_VERSION.jar /tmp/vaadin-target/plugins 
-cp ../org.semanticsoft.vaaclipse.vaadinaddons/target/org.semanticsoft.vaaclipse.vaadinaddons-1.0.0.M1.jar /tmp/vaadin-target/plugins
+cp ../org.semanticsoft.vaaclipse.vaadinaddons/target/org.semanticsoft.vaaclipse.vaadinaddons-1.0.0.M2.jar /tmp/vaadin-target/plugins
 
 java -jar $ECLIPSE_INSTALL/plugins/org.eclipse.equinox.launcher_$LAUNCHER_VERSION.jar \
   -application org.eclipse.equinox.p2.publisher.FeaturesAndBundlesPublisher \
