@@ -27,6 +27,23 @@
 		
 		<module>../org.semanticsoft.e4.tools.feature</module>
 		<module>../updatesite</module>
+		
+		<module>../org.semanticsoft.commons</module>
+		<module>../org.semanticsoft.e4.injector.objectsuppliers</module>
+		<module>../org.semanticsoft.vaaclipse.api</module>
+		<module>../org.semanticsoft.vaaclipse.publicapi</module>
+		<module>../org.semanticsoft.vaaclipse.resources</module>
+		<!--  module>../org.semanticsoft.vaaclipse.vaadinaddons</module-->
+		<module>../org.semanticsoft.vaaclipse.util</module>
+		<module>../org.semanticsoft.vaaclipse.theme</module>
+		<module>../org.semanticsoft.vaadin.osgi.staticres</module>
+		<module>../org.semanticsoft.vaadin</module>
+		<module>../org.semanticsoft.vaaclipse.app</module>
+		<module>../org.semanticsoft.vaaclipse.presentation</module>
+		<module>../org.semanticsoft.e4extension</module>
+		<module>../org.semanticsoft.vaaclipse.additions</module>
+		<module>../org.semanticsoft.vaaclipse.behaviour</module>
+		<module>../org.semanticsoft.vaaclipse.contributions</module>
 	</modules>
 
 	<repositories>
@@ -41,7 +58,12 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/e4/updates/0.12-I-builds/</url>
 		</repository>	
-			
+		
+		<repository>
+			<id>vaadin-repo-2</id>
+			<layout>p2</layout>
+			<url>file:/tmp/vaadin-repository</url>
+		</repository>
 	</repositories>
 
 	<pluginRepositories>
