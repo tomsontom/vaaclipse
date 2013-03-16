@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.semanticsoft.e4.tools.feature"
-      label="Feature"
+      label="vaaclipse tooling addons"
       version="1.0.0.M2">
 
    <description url="http://www.example.com/description">
@@ -25,6 +25,13 @@
 
    <plugin
          id="org.semanticsoft.e4tools.extension"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.semanticsoft.vaaclipse.wizards"
          download-size="0"
          install-size="0"
          version="0.0.0"

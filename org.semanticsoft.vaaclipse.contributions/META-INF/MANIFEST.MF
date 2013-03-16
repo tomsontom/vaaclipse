@@ -14,5 +14,5 @@ Require-Bundle: org.eclipse.e4.ui.model.workbench;bundle-version="0.10.1",
  org.eclipse.core.expressions;bundle-version="3.4.401",
  org.semanticsoft.vaaclipse.api;bundle-version="1.0.0"
 Bundle-SymbolicName: org.semanticsoft.vaaclipse.contributions;singleton:=true
-Import-Package: javax.annotation
+Import-Package: javax.annotation;version="1.0.0"
 Export-Package: org.semanticsoft.vaaclipse.contributions
