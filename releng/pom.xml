@@ -44,6 +44,7 @@
 		<module>../org.semanticsoft.vaaclipse.additions</module>
 		<module>../org.semanticsoft.vaaclipse.behaviour</module>
 		<module>../org.semanticsoft.vaaclipse.contributions</module>
+		<module>../org.semanticsoft.vaaclipse.wizards</module>
 	</modules>
 
 	<repositories>
