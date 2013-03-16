@@ -25,9 +25,6 @@
 		<module>../org.semanticsoft.e4modelextension</module>
 		<module>../org.semanticsoft.e4tools.extension</module>
 		
-		<module>../org.semanticsoft.e4.tools.feature</module>
-		<module>../updatesite</module>
-		
 		<module>../org.semanticsoft.commons</module>
 		<module>../org.semanticsoft.e4.injector.objectsuppliers</module>
 		<module>../org.semanticsoft.vaaclipse.api</module>
@@ -45,6 +42,10 @@
 		<module>../org.semanticsoft.vaaclipse.behaviour</module>
 		<module>../org.semanticsoft.vaaclipse.contributions</module>
 		<module>../org.semanticsoft.vaaclipse.wizards</module>
+		
+		<module>../org.semanticsoft.e4.tools.feature</module>
+		<module>../org.semanticsoft.vaaclipe.runtime.feature</module>
+		<module>../updatesite</module>
 	</modules>
 
 	<repositories>
