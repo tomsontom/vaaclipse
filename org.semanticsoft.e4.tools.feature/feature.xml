@@ -2,7 +2,7 @@
 <feature
       id="org.semanticsoft.e4.tools.feature"
       label="Feature"
-      version="1.0.0.M1">
+      version="1.0.0.M2">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
