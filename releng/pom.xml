@@ -45,7 +45,9 @@
 		
 		
 		<module>../org.semanticsoft.e4.tools.feature</module>
+		<module>../org.semanticsoft.e4.tools.source.feature</module>
 		<module>../org.semanticsoft.vaaclipe.runtime.feature</module>
+		<module>../org.semanticsoft.vaaclipe.runtime.source.feature</module>
 		<module>../updatesite</module>
 	</modules>
 

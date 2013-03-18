@@ -6,6 +6,12 @@
    <feature url="features/org.semanticsoft.vaaclipe.runtime.feature_1.0.0.M2.jar" id="org.semanticsoft.vaaclipe.runtime.feature" version="1.0.0.M2">
       <category name="target"/>
    </feature>
+   <feature url="features/org.semanticsoft.e4.tools.source.feature_1.0.0.M2.jar" id="org.semanticsoft.e4.tools.source.feature" version="1.0.0.M2">
+      <category name="tooling"/>
+   </feature>
+   <feature url="features/org.semanticsoft.vaaclipe.runtime.source.feature_1.0.0.M2.jar" id="org.semanticsoft.vaaclipe.runtime.source.feature" version="1.0.0.M2">
+      <category name="target"/>
+   </feature>
    <category-def name="tooling" label="vaaclipse tooling"/>
    <category-def name="target" label="Target"/>
 </site>
